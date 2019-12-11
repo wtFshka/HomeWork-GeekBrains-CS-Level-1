@@ -50,10 +50,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <WCFMetadata Include="Connected Services\" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\..\MyClass\MyMethods.csproj">
+    <ProjectReference Include="..\MyMethods\MyMethods.csproj">
       <Project>{1facb316-0ce1-40a6-975d-921fd81efafc}</Project>
       <Name>MyMethods</Name>
     </ProjectReference>

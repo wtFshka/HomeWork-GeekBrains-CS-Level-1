@@ -5,10 +5,6 @@ VisualStudioVersion = 16.0.28729.10
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson 1", "Lesson 1", "{4DC992DD-38F1-41BF-9901-DFAB854AA1FC}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson 2", "Lesson 2", "{029B0A0E-5E5C-47BB-90AA-6B0F8C997EEE}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson 3", "Lesson 3", "{E80132BD-E987-488D-A328-026120F9F068}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 1", "Lesson 1\Task 1\Task 1.csproj", "{7D99BED0-CF14-42A1-BB7A-8CC6D76CD574}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 2", "Lesson 1\Task 2\Task 2.csproj", "{D5D8C84A-12BD-4C6A-A4A0-6B441D2163C4}"
@@ -19,7 +15,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 4", "Lesson 1\Task 4\T
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 5", "Lesson 1\Task 5\Task 5.csproj", "{B633A92F-E291-4FC0-8C23-2BA9BA85AFFB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMethods", "MyClass\MyMethods.csproj", "{1FACB316-0CE1-40A6-975D-921FD81EFAFC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMethods", "Lesson 1\MyMethods\MyMethods.csproj", "{1FACB316-0CE1-40A6-975D-921FD81EFAFC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
