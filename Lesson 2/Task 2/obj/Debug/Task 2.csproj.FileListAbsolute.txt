@@ -1,0 +1,5 @@
+C:\Users\Пользователь\source\repos\HomeWork Lesson 2\Task 2\bin\Debug\Task 2.exe.config
+C:\Users\Пользователь\source\repos\HomeWork Lesson 2\Task 2\bin\Debug\Task 2.exe
+C:\Users\Пользователь\source\repos\HomeWork Lesson 2\Task 2\bin\Debug\Task 2.pdb
+C:\Users\Пользователь\source\repos\HomeWork Lesson 2\Task 2\obj\Debug\Task 2.exe
+C:\Users\Пользователь\source\repos\HomeWork Lesson 2\Task 2\obj\Debug\Task 2.pdb
