@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_1", "Lesson 3\Task_1\T
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_2", "Lesson 3\Task_2\Task_2.csproj", "{503D5674-F966-46E8-938D-6046CA723D05}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_3", "Lesson 3\Task 3\Task_3.csproj", "{B173F93C-92FC-4EB9-B62D-F47140F28168}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_3", "Lesson 3\Task_3\Task_3.csproj", "{B173F93C-92FC-4EB9-B62D-F47140F28168}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
