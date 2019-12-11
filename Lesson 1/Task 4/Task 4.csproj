@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{6339A73E-1855-4F64-A3D8-0C21A0238D0D}</ProjectGuid>
+    <ProjectGuid>{52F6C970-86D5-4A5F-9154-75C602D6953A}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Lesson_1</RootNamespace>
-    <AssemblyName>Lesson_1</AssemblyName>
+    <RootNamespace>Task_4</RootNamespace>
+    <AssemblyName>Task 4</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -48,6 +48,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ReadWriter\MyMethods.csproj">
+      <Project>{da49e9a7-2982-4d95-9514-b2aa7fce57d4}</Project>
+      <Name>MyMethods</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

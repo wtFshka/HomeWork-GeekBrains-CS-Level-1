@@ -1,0 +1,9 @@
+C:\Users\Пользователь\source\repos\HomeWork Lesson 1\Task 5\bin\Debug\Task 5.exe.config
+C:\Users\Пользователь\source\repos\HomeWork Lesson 1\Task 5\bin\Debug\Task 5.exe
+C:\Users\Пользователь\source\repos\HomeWork Lesson 1\Task 5\bin\Debug\Task 5.pdb
+C:\Users\Пользователь\source\repos\HomeWork Lesson 1\Task 5\bin\Debug\ReadWriter.exe
+C:\Users\Пользователь\source\repos\HomeWork Lesson 1\Task 5\bin\Debug\ReadWriter.pdb
+C:\Users\Пользователь\source\repos\HomeWork Lesson 1\Task 5\bin\Debug\ReadWriter.exe.config
+C:\Users\Пользователь\source\repos\HomeWork Lesson 1\Task 5\obj\Debug\Task 5.csproj.CopyComplete
+C:\Users\Пользователь\source\repos\HomeWork Lesson 1\Task 5\obj\Debug\Task 5.exe
+C:\Users\Пользователь\source\repos\HomeWork Lesson 1\Task 5\obj\Debug\Task 5.pdb
