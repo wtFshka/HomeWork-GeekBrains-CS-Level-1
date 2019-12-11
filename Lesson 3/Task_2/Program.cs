@@ -7,6 +7,9 @@ namespace Task_2
     {
         static void Main(string[] args)
         {
+            //а)  С клавиатуры вводятся числа, пока не будет введён 0 (каждое число в новой строке). 
+            //Требуется подсчитать сумму всех нечётных положительных чисел. Сами числа и сумму вывести на экран, используя tryParse.
+
             List<double> numbers = new List<double>();
             double num, sum = 0;
             Console.WriteLine("Программа посчета суммы всех введенных нечетных положительных чисел, для вывода результата и выхода из программы введите 0");
@@ -25,7 +28,7 @@ namespace Task_2
                 }    
             } while (num != 0);
             Console.WriteLine($"Вами было введено {numbers.Count} нечетных положительных чисел(а):");
-            foreach (var n in numbers)
+            foreach (double n in numbers)
             {
                 Console.WriteLine(n);
                 sum += n;
