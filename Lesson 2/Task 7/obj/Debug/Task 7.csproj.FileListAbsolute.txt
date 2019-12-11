@@ -1,5 +1,0 @@
-C:\Users\Пользователь\source\repos\HomeWork Lesson 2\Task 7\bin\Debug\Task 7.exe.config
-C:\Users\Пользователь\source\repos\HomeWork Lesson 2\Task 7\bin\Debug\Task 7.exe
-C:\Users\Пользователь\source\repos\HomeWork Lesson 2\Task 7\bin\Debug\Task 7.pdb
-C:\Users\Пользователь\source\repos\HomeWork Lesson 2\Task 7\obj\Debug\Task 7.exe
-C:\Users\Пользователь\source\repos\HomeWork Lesson 2\Task 7\obj\Debug\Task 7.pdb
