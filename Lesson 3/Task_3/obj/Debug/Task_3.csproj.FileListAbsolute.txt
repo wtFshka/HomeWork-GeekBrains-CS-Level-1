@@ -1,7 +1,0 @@
-D:\HomeWork GeekBrains CS Level 1\Lesson 3\Task_3\bin\Debug\Task 3.exe.config
-D:\HomeWork GeekBrains CS Level 1\Lesson 3\Task_3\bin\Debug\Task 3.exe
-D:\HomeWork GeekBrains CS Level 1\Lesson 3\Task_3\bin\Debug\Task 3.pdb
-D:\HomeWork GeekBrains CS Level 1\Lesson 3\Task_3\obj\Debug\Task_3.csprojAssemblyReference.cache
-D:\HomeWork GeekBrains CS Level 1\Lesson 3\Task_3\obj\Debug\Task_3.csproj.CoreCompileInputs.cache
-D:\HomeWork GeekBrains CS Level 1\Lesson 3\Task_3\obj\Debug\Task 3.exe
-D:\HomeWork GeekBrains CS Level 1\Lesson 3\Task_3\obj\Debug\Task 3.pdb
