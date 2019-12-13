@@ -1,0 +1,9 @@
+D:\HomeWork GeekBrains CS Level 1\Lesson 4\MyArray\bin\Debug\netstandard2.0\MyArray.deps.json
+D:\HomeWork GeekBrains CS Level 1\Lesson 4\MyArray\bin\Debug\netstandard2.0\MyArray.dll
+D:\HomeWork GeekBrains CS Level 1\Lesson 4\MyArray\bin\Debug\netstandard2.0\MyArray.pdb
+D:\HomeWork GeekBrains CS Level 1\Lesson 4\MyArray\obj\Debug\netstandard2.0\MyArray.csprojAssemblyReference.cache
+D:\HomeWork GeekBrains CS Level 1\Lesson 4\MyArray\obj\Debug\netstandard2.0\MyArray.csproj.CoreCompileInputs.cache
+D:\HomeWork GeekBrains CS Level 1\Lesson 4\MyArray\obj\Debug\netstandard2.0\MyArray.AssemblyInfoInputs.cache
+D:\HomeWork GeekBrains CS Level 1\Lesson 4\MyArray\obj\Debug\netstandard2.0\MyArray.AssemblyInfo.cs
+D:\HomeWork GeekBrains CS Level 1\Lesson 4\MyArray\obj\Debug\netstandard2.0\MyArray.dll
+D:\HomeWork GeekBrains CS Level 1\Lesson 4\MyArray\obj\Debug\netstandard2.0\MyArray.pdb
