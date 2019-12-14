@@ -8,3 +8,12 @@ D:\HomeWork GeekBrains CS Level 1\Lesson 4\Task_3\obj\Debug\Task_3.csprojAssembl
 D:\HomeWork GeekBrains CS Level 1\Lesson 4\Task_3\bin\Debug\MyArray.dll
 D:\HomeWork GeekBrains CS Level 1\Lesson 4\Task_3\bin\Debug\MyArray.pdb
 D:\HomeWork GeekBrains CS Level 1\Lesson 4\Task_3\obj\Debug\Task_3.csproj.CopyComplete
+C:\Users\Пользователь\source\repos\HomeWork GeekBrains CS Level 1\Lesson 4\Task_3\bin\Debug\Task_3.exe.config
+C:\Users\Пользователь\source\repos\HomeWork GeekBrains CS Level 1\Lesson 4\Task_3\bin\Debug\Task_3.exe
+C:\Users\Пользователь\source\repos\HomeWork GeekBrains CS Level 1\Lesson 4\Task_3\bin\Debug\Task_3.pdb
+C:\Users\Пользователь\source\repos\HomeWork GeekBrains CS Level 1\Lesson 4\Task_3\bin\Debug\MyArray.dll
+C:\Users\Пользователь\source\repos\HomeWork GeekBrains CS Level 1\Lesson 4\Task_3\bin\Debug\MyArray.pdb
+C:\Users\Пользователь\source\repos\HomeWork GeekBrains CS Level 1\Lesson 4\Task_3\obj\Debug\Task_3.csprojAssemblyReference.cache
+C:\Users\Пользователь\source\repos\HomeWork GeekBrains CS Level 1\Lesson 4\Task_3\obj\Debug\Task_3.csproj.CopyComplete
+C:\Users\Пользователь\source\repos\HomeWork GeekBrains CS Level 1\Lesson 4\Task_3\obj\Debug\Task_3.exe
+C:\Users\Пользователь\source\repos\HomeWork GeekBrains CS Level 1\Lesson 4\Task_3\obj\Debug\Task_3.pdb
