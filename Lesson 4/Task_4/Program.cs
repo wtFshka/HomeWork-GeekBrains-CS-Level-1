@@ -1,8 +1,4 @@
 ﻿using System;
-using System.IO;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Task_4
 {
@@ -12,30 +8,32 @@ namespace Task_4
         //Создайте структуру Account, содержащую Login и Password.
         static void Main()
         {
-            File.WriteAllText("accounts.txt", "root GeekBrains");
-        }
-
-    }
-    public struct Account
-    {
-        string _login;
-        string _password;
-        public Account(string login, string password)
-        {
-            _login = login;
-            _password = password;
-        }
-        public bool Authentication()
-        {
-            string[] LogPassPairs = File.ReadAllLines("accounts.txt");
-            foreach (var lp in LogPassPairs)
+            string login, password;
+            int count = 0;
+            Account acc;
+            do
             {
-                if (lp.Split(' ')[0] == _login && lp.Split(' ')[1] == _password)
+                count++;
+                if (count > 1)
                 {
-                    return true;
+                    if (count > 3)
+                    {
+                        Console.WriteLine("3 раза введен не верный логин или пароль. Доступ закрыт.");
+                        break;
+                    }
+                    Console.WriteLine("Введён не верный логин или паролью");
                 }
-            }
-            return false;
+                Console.Write("Введите логин: ");
+                login = Console.ReadLine();
+                Console.Write("Введите пароль: ");
+                password = Console.ReadLine();
+                acc = new Account(login, password);
+                if (acc.Authentication())
+                {
+                    Console.WriteLine("Добро пожаловать!");
+                }
+            } while (!acc.Authentication());
+            Console.ReadKey();
         }
     }
 }

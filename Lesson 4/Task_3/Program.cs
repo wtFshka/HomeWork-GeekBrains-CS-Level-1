@@ -1,9 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using MyArray;
+using MyLibrary;
 
 namespace Task_3
 {
@@ -22,7 +18,7 @@ namespace Task_3
         static void Main()
         {
             Console.WriteLine("Программа для работы с массивом");
-            MyArray.MyArray mr = new MyArray.MyArray(5, 3, 2);
+            MyArray mr = new MyArray(5, 3, 2);
             Console.Write($"Созданный массив: ");
             Console.WriteLine(mr);
             Console.WriteLine($"Сумма чисел массива: {mr.Sum}");
