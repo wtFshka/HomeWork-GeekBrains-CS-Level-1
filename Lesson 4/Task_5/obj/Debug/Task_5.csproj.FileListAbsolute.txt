@@ -1,9 +1,0 @@
-C:\Users\Пользователь\source\repos\HomeWork GeekBrains CS Level 1\Lesson 4\Task_5\bin\Debug\Task_5.exe.config
-C:\Users\Пользователь\source\repos\HomeWork GeekBrains CS Level 1\Lesson 4\Task_5\bin\Debug\Task_5.exe
-C:\Users\Пользователь\source\repos\HomeWork GeekBrains CS Level 1\Lesson 4\Task_5\bin\Debug\Task_5.pdb
-C:\Users\Пользователь\source\repos\HomeWork GeekBrains CS Level 1\Lesson 4\Task_5\obj\Debug\Task_5.csprojAssemblyReference.cache
-C:\Users\Пользователь\source\repos\HomeWork GeekBrains CS Level 1\Lesson 4\Task_5\obj\Debug\Task_5.csproj.CopyComplete
-C:\Users\Пользователь\source\repos\HomeWork GeekBrains CS Level 1\Lesson 4\Task_5\obj\Debug\Task_5.exe
-C:\Users\Пользователь\source\repos\HomeWork GeekBrains CS Level 1\Lesson 4\Task_5\obj\Debug\Task_5.pdb
-C:\Users\Пользователь\source\repos\HomeWork GeekBrains CS Level 1\Lesson 4\Task_5\bin\Debug\MyLibrary.dll
-C:\Users\Пользователь\source\repos\HomeWork GeekBrains CS Level 1\Lesson 4\Task_5\bin\Debug\MyLibrary.pdb

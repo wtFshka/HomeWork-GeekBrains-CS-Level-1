@@ -1,3 +1,0 @@
-root GeekBrains
-sysdba database
-admin admin

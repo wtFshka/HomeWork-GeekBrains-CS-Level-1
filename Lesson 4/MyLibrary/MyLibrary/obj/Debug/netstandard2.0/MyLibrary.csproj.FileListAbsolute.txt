@@ -1,7 +1,0 @@
-C:\Users\Пользователь\source\repos\HomeWork GeekBrains CS Level 1\Lesson 4\MyLibrary\MyLibrary\bin\Debug\netstandard2.0\MyLibrary.deps.json
-C:\Users\Пользователь\source\repos\HomeWork GeekBrains CS Level 1\Lesson 4\MyLibrary\MyLibrary\bin\Debug\netstandard2.0\MyLibrary.dll
-C:\Users\Пользователь\source\repos\HomeWork GeekBrains CS Level 1\Lesson 4\MyLibrary\MyLibrary\bin\Debug\netstandard2.0\MyLibrary.pdb
-C:\Users\Пользователь\source\repos\HomeWork GeekBrains CS Level 1\Lesson 4\MyLibrary\MyLibrary\obj\Debug\netstandard2.0\MyLibrary.AssemblyInfoInputs.cache
-C:\Users\Пользователь\source\repos\HomeWork GeekBrains CS Level 1\Lesson 4\MyLibrary\MyLibrary\obj\Debug\netstandard2.0\MyLibrary.AssemblyInfo.cs
-C:\Users\Пользователь\source\repos\HomeWork GeekBrains CS Level 1\Lesson 4\MyLibrary\MyLibrary\obj\Debug\netstandard2.0\MyLibrary.dll
-C:\Users\Пользователь\source\repos\HomeWork GeekBrains CS Level 1\Lesson 4\MyLibrary\MyLibrary\obj\Debug\netstandard2.0\MyLibrary.pdb
