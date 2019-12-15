@@ -1,0 +1,6 @@
+C:\Users\Пользователь\source\repos\HomeWork GeekBrains CS Level 1\Lesson 5\Task_1\bin\Debug\Task_1.exe.config
+C:\Users\Пользователь\source\repos\HomeWork GeekBrains CS Level 1\Lesson 5\Task_1\bin\Debug\Task_1.exe
+C:\Users\Пользователь\source\repos\HomeWork GeekBrains CS Level 1\Lesson 5\Task_1\bin\Debug\Task_1.pdb
+C:\Users\Пользователь\source\repos\HomeWork GeekBrains CS Level 1\Lesson 5\Task_1\obj\Debug\Task_1.csprojAssemblyReference.cache
+C:\Users\Пользователь\source\repos\HomeWork GeekBrains CS Level 1\Lesson 5\Task_1\obj\Debug\Task_1.exe
+C:\Users\Пользователь\source\repos\HomeWork GeekBrains CS Level 1\Lesson 5\Task_1\obj\Debug\Task_1.pdb
