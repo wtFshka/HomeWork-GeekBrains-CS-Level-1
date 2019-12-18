@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1FBB8C7C-0414-419D-82B1-666B404B5218}</ProjectGuid>
+    <ProjectGuid>{568B7731-43FC-4918-8292-DD31E4C6E3D5}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Task_2</RootNamespace>
-    <AssemblyName>Task_2</AssemblyName>
+    <RootNamespace>Task_3</RootNamespace>
+    <AssemblyName>Task 3</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="MinFunc.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

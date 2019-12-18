@@ -1,6 +1,7 @@
-C:\Users\Пользователь\source\repos\HomeWork GeekBrains CS Level 1\Lesson 6\Task 2\bin\Debug\Task 2.exe.config
-C:\Users\Пользователь\source\repos\HomeWork GeekBrains CS Level 1\Lesson 6\Task 2\bin\Debug\Task 2.exe
-C:\Users\Пользователь\source\repos\HomeWork GeekBrains CS Level 1\Lesson 6\Task 2\bin\Debug\Task 2.pdb
-C:\Users\Пользователь\source\repos\HomeWork GeekBrains CS Level 1\Lesson 6\Task 2\obj\Debug\Task 2.csprojAssemblyReference.cache
-C:\Users\Пользователь\source\repos\HomeWork GeekBrains CS Level 1\Lesson 6\Task 2\obj\Debug\Task 2.exe
-C:\Users\Пользователь\source\repos\HomeWork GeekBrains CS Level 1\Lesson 6\Task 2\obj\Debug\Task 2.pdb
+D:\HomeWork GeekBrains CS Level 1\Lesson 6\Task 2\bin\Debug\Task_2.exe.config
+D:\HomeWork GeekBrains CS Level 1\Lesson 6\Task 2\bin\Debug\Task_2.exe
+D:\HomeWork GeekBrains CS Level 1\Lesson 6\Task 2\bin\Debug\Task_2.pdb
+D:\HomeWork GeekBrains CS Level 1\Lesson 6\Task 2\obj\Debug\Task 2.csprojAssemblyReference.cache
+D:\HomeWork GeekBrains CS Level 1\Lesson 6\Task 2\obj\Debug\Task 2.csproj.CoreCompileInputs.cache
+D:\HomeWork GeekBrains CS Level 1\Lesson 6\Task 2\obj\Debug\Task_2.exe
+D:\HomeWork GeekBrains CS Level 1\Lesson 6\Task 2\obj\Debug\Task_2.pdb
