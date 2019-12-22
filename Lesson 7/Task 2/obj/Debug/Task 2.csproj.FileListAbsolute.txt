@@ -1,0 +1,10 @@
+C:\Users\Пользователь\source\repos\HomeWork GeekBrains CS Level 1\Lesson 7\Task 2\obj\Debug\Task 2.csprojAssemblyReference.cache
+C:\Users\Пользователь\source\repos\HomeWork GeekBrains CS Level 1\Lesson 7\Task 2\obj\Debug\Task_2.Form1.resources
+C:\Users\Пользователь\source\repos\HomeWork GeekBrains CS Level 1\Lesson 7\Task 2\obj\Debug\Task_2.InputForm.resources
+C:\Users\Пользователь\source\repos\HomeWork GeekBrains CS Level 1\Lesson 7\Task 2\obj\Debug\Task_2.Properties.Resources.resources
+C:\Users\Пользователь\source\repos\HomeWork GeekBrains CS Level 1\Lesson 7\Task 2\obj\Debug\Task 2.csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\HomeWork GeekBrains CS Level 1\Lesson 7\Task 2\bin\Debug\Task 2.exe.config
+C:\Users\Пользователь\source\repos\HomeWork GeekBrains CS Level 1\Lesson 7\Task 2\bin\Debug\Task 2.exe
+C:\Users\Пользователь\source\repos\HomeWork GeekBrains CS Level 1\Lesson 7\Task 2\bin\Debug\Task 2.pdb
+C:\Users\Пользователь\source\repos\HomeWork GeekBrains CS Level 1\Lesson 7\Task 2\obj\Debug\Task 2.exe
+C:\Users\Пользователь\source\repos\HomeWork GeekBrains CS Level 1\Lesson 7\Task 2\obj\Debug\Task 2.pdb
