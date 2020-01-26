@@ -1,9 +1,0 @@
-C:\Users\Пользователь\source\repos\HomeWork GeekBrains CS Level 1\Lesson 7\Task 1\bin\Debug\Task 1.exe.config
-C:\Users\Пользователь\source\repos\HomeWork GeekBrains CS Level 1\Lesson 7\Task 1\bin\Debug\Task 1.exe
-C:\Users\Пользователь\source\repos\HomeWork GeekBrains CS Level 1\Lesson 7\Task 1\bin\Debug\Task 1.pdb
-C:\Users\Пользователь\source\repos\HomeWork GeekBrains CS Level 1\Lesson 7\Task 1\obj\Debug\Task 1.csprojAssemblyReference.cache
-C:\Users\Пользователь\source\repos\HomeWork GeekBrains CS Level 1\Lesson 7\Task 1\obj\Debug\Task_1.Form1.resources
-C:\Users\Пользователь\source\repos\HomeWork GeekBrains CS Level 1\Lesson 7\Task 1\obj\Debug\Task_1.Properties.Resources.resources
-C:\Users\Пользователь\source\repos\HomeWork GeekBrains CS Level 1\Lesson 7\Task 1\obj\Debug\Task 1.csproj.GenerateResource.cache
-C:\Users\Пользователь\source\repos\HomeWork GeekBrains CS Level 1\Lesson 7\Task 1\obj\Debug\Task 1.exe
-C:\Users\Пользователь\source\repos\HomeWork GeekBrains CS Level 1\Lesson 7\Task 1\obj\Debug\Task 1.pdb

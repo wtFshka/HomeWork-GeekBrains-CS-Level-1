@@ -1,0 +1,12 @@
+D:\HomeWork GeekBrains CS Level 1\Lesson 8\Task 3\bin\Debug\Task 3.exe.config
+D:\HomeWork GeekBrains CS Level 1\Lesson 8\Task 3\bin\Debug\Task 3.exe
+D:\HomeWork GeekBrains CS Level 1\Lesson 8\Task 3\bin\Debug\Task 3.pdb
+D:\HomeWork GeekBrains CS Level 1\Lesson 8\Task 3\obj\Debug\Task 3.csprojAssemblyReference.cache
+D:\HomeWork GeekBrains CS Level 1\Lesson 8\Task 3\obj\Debug\Task_3.Form1.resources
+D:\HomeWork GeekBrains CS Level 1\Lesson 8\Task 3\obj\Debug\Task_3.Properties.Resources.resources
+D:\HomeWork GeekBrains CS Level 1\Lesson 8\Task 3\obj\Debug\Task 3.csproj.GenerateResource.cache
+D:\HomeWork GeekBrains CS Level 1\Lesson 8\Task 3\obj\Debug\Task 3.csproj.CoreCompileInputs.cache
+D:\HomeWork GeekBrains CS Level 1\Lesson 8\Task 3\obj\Debug\Task 3.exe
+D:\HomeWork GeekBrains CS Level 1\Lesson 8\Task 3\obj\Debug\Task 3.pdb
+D:\HomeWork GeekBrains CS Level 1\Lesson 8\Task 3\obj\Debug\Task_3.Form2.resources
+D:\HomeWork GeekBrains CS Level 1\Lesson 8\Task 3\obj\Debug\Task_3.Form3.resources

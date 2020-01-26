@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<ArrayOfQuestion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Question>
+    <Text>2+2*2=8</Text>
+    <TrueFalse>false</TrueFalse>
+  </Question>
+  <Question>
+    <Text>Пингвины выбирают себе пару на всю жизнь</Text>
+    <TrueFalse>true</TrueFalse>
+  </Question>
+  <Question>
+    <Text>Эта программа написана на языке C++</Text>
+    <TrueFalse>false</TrueFalse>
+  </Question>
+  <Question>
+    <Text>Тонна железа тяжелее тонны пуха</Text>
+    <TrueFalse>true</TrueFalse>
+  </Question>
+  <Question>
+    <Text>При 0 градусов по Цельсию вода замерзает</Text>
+    <TrueFalse>true</TrueFalse>
+  </Question>
+</ArrayOfQuestion>
